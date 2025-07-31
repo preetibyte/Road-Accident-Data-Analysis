@@ -30,14 +30,6 @@ The road accident dashboard provides the following KPIs and insights.
 -	Distribution of Total Casualties by Road Surface: Breakdown of casualties based on the road surface conditions.
 -	Casualties by Area/Location and Day/Night: Analysis of the relationship between casualties and the time of day in different areas or locations.
 
--	Dashboard Interaction <a href="https://github.com/preetibyte/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png">View Dashboard</a>
-
-<img width="1233" height="593" alt="Road Accident Dashboard" src="https://github.com/user-attachments/assets/3bc542fd-3a06-4986-b834-30d84e1237fa" />
-
-
-## Dashboard
-- <a href="https://github.com/preetibyte/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png"/a>
-
 ## Stakeholders
 The road accident dashboard is designed to provide insights to the following stakeholders. These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
 - Ministry of Transport
@@ -63,3 +55,6 @@ The road accident dashboard is designed to provide insights to the following sta
 - Most Accident occurred during daylight
 
 - Accident mostly occurred at rural area
+
+<img width="1233" height="593" alt="Road Accident Dashboard" src="https://github.com/user-attachments/assets/2c93c20f-8458-4018-a3bf-e5666a518dc1" />
+
