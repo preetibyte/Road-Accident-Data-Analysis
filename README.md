@@ -32,6 +32,9 @@ The road accident dashboard provides the following KPIs and insights.
 
 -	Dashboard Interaction <a href="https://github.com/preetibyte/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png">View Dashboard</a>
 
+<img width="1233" height="593" alt="Road Accident Dashboard" src="https://github.com/user-attachments/assets/3bc542fd-3a06-4986-b834-30d84e1237fa" />
+
+
 ## Dashboard
 - <a href="https://github.com/preetibyte/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png"/a>
 
