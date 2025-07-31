@@ -29,3 +29,29 @@ The road accident dashboard provides the following KPIs and insights.
 -	Maximum Casualties by Road Types: Identification of road types associated with the highest number of casualties.
 -	Distribution of Total Casualties by Road Surface: Breakdown of casualties based on the road surface conditions.
 -	Casualties by Area/Location and Day/Night: Analysis of the relationship between casualties and the time of day in different areas or locations.
+
+## Stakeholders
+The road accident dashboard is designed to provide insights to the following stakeholders. These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
+- Ministry of Transport
+- Road Transport Department
+- Police Force
+- Emergency Service Department
+- Road Safety Corps
+- Transport Operators
+- Traffic Management Agencies
+- Media
+- Public
+  
+## Insights:
+
+- Most Casualties were Slight
+
+- The highest number of Accident was by Car
+
+- The most common Accident was on single carriage way
+
+- Dry surface has the highest Casualties
+
+- Most Accident occurred during daylight
+
+- Accident mostly occurred at rural area
