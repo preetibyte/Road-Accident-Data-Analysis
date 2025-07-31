@@ -30,6 +30,8 @@ The road accident dashboard provides the following KPIs and insights.
 -	Distribution of Total Casualties by Road Surface: Breakdown of casualties based on the road surface conditions.
 -	Casualties by Area/Location and Day/Night: Analysis of the relationship between casualties and the time of day in different areas or locations.
 
+-	Dashboard Interaction <a href="https://github.com/preetibyte/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png">View Dashboard</a>
+
 ## Dashboard
 - <a href="https://github.com/preetibyte/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png"/a>
 
