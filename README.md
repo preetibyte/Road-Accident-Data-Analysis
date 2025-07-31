@@ -31,7 +31,7 @@ The road accident dashboard provides the following KPIs and insights.
 -	Casualties by Area/Location and Day/Night: Analysis of the relationship between casualties and the time of day in different areas or locations.
 
 ## Dashboard
-
+- <a href="https://github.com/preetibyte/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png">View Dashboard</a>
 
 ## Stakeholders
 The road accident dashboard is designed to provide insights to the following stakeholders. These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
